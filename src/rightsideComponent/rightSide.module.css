@@ -1,0 +1,10 @@
+.RightSideWrapper {
+
+    width: 30%;
+    margin-left: 16px;
+
+} 
+
+.active{
+    border: 4px solid #fad744;
+}

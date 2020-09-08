@@ -1,0 +1,54 @@
+
+
+.playerWrapper{
+    width: 70%;
+    padding-right: 16px;
+    border-right: 1px solid #ccc; 
+} 
+.playerWrapper iframe{
+    width: 100%;
+    height: 400px; 
+    margin-top: 3%;
+} 
+.playerWrapper1{
+    padding-right: 16px;
+    border-right: 1px solid #ccc;
+    display: inline;
+}
+
+.videoplayer{
+    width: 100%;
+    height: 400px;
+} 
+.videoactions{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} 
+.viewscount{
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.7);
+} 
+.videotitle{
+    font-size: 36px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border-top: 1px solid #ccc;
+    padding-top: 16px;
+} 
+.videodescription{
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 1.3;
+    margin-top: 0;
+    color: rgba(0, 0, 0, 0.7);
+} 
+
+
+.Parent svg {
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.7);
+    margin-right: 20px;
+    margin-top: 16px;
+    cursor: pointer;
+}
